@@ -1,6 +1,6 @@
 <?php
 
-namespace Ranks;
+namespace TeMp3r126;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\Server;
